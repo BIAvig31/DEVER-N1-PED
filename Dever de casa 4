@@ -1,0 +1,40 @@
+1 - 
+
+a) Python 
+
+print("Eu amo programação")
+
+Como executar: Salve o código acima em um arquivo com a extensão .py (por exemplo, eu_amo_prog.py) e execute-o usando o interpretador Python:
+
+python eu_amo_prog.py
+
+
+b)Java
+public class Euamoprog {
+    public static void main(String[] args) {
+        System.out.println("Eu amo programação");
+    }
+}
+
+Como executar: Salve o código acima em um arquivo com a extensão .java. Compile-o usando o compilador Java para gerar um arquivo .class e, em seguida, execute-o: 
+
+javac Euamoprog.java
+java Euamoprog
+
+
+c) Javascript
+console.log("Eu amo prog");
+ 
+Como executar: Crie um arquivo com a extensão .html e insira o seguinte código no corpo do documento HTML:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo JavaScript</title>
+</head>
+<body>
+    <script>
+        console.log("Eu amo prog");
+    </script>
+</body>
+</html>
