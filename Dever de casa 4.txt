@@ -1,0 +1,47 @@
+1 - 
+
+a) Python 
+
+import time
+
+def main():
+    print("Iniciando programa...")
+    time.sleep(2)  # Espera por 2 segundos
+    print("Eu amo programação")
+
+if __name__ == "__main__":
+    main()
+
+
+importa a biblioteca time para usar a função sleep, que permite esperar por um número específico de segundos antes de continuar a execução. O programa espera 2 segundos após a mensagem "Iniciando programa..." antes de aparecer "Eu amo programação".
+
+
+b)Java
+public class Euamoprog {
+    public static void main(String[] args) {
+        System.out.println("Eu amo programação");
+    }
+}
+
+Como executar: Salve o código acima em um arquivo com a extensão .java. Compile-o usando o compilador Java para gerar um arquivo .class e, em seguida, execute-o: 
+
+javac Euamoprog.java
+java Euamoprog
+
+
+c) Javascript
+console.log("Eu amo prog");
+ 
+Como executar: Crie um arquivo com a extensão .html e insira o seguinte código no corpo do documento HTML:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo JavaScript</title>
+</head>
+<body>
+    <script>
+        console.log("Eu amo prog");
+    </script>
+</body>
+</html>
