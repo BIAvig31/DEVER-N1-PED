@@ -1,0 +1,42 @@
+DEVER 5
+
+a = 50
+b = 240
+soma = a+b
+subtracao = a-b
+multiplicacao = a*b
+divisao =  a/b
+
+c = 5
+
+r1 = c < 6
+r2 = c == 6
+r3 = c!= 7
+
+va = False
+vb = True
+
+r4 = vb and va
+r5 = vb or va 
+r6 = va and vb
+r7 = not va
+r8 = not vb 
+
+
+a= 50
+b=240
+c= 5
+divisao= 0.20833333333333334
+multiplicacao= 12000
+r1= true
+r2= false
+r3= true
+r4= false
+r5= true
+r6= false
+r7= true
+r8= false
+soma= 290
+subtracao= -190
+va= False
+vb= true
